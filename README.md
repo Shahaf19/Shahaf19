@@ -4,7 +4,7 @@ I believe my willingness to learn, combined with my values of credibility and te
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Security Audit Conduction](https://github.com/Shahaf19/SecurityAuditConduction)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/Shahaf19/ActiveDirectoryLab)
 
 <h2> Certifications</h2>
 -[Google Cybersecurity Certificate]
