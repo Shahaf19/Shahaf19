@@ -1,5 +1,6 @@
 <h1>Hi, I'm Shahaf! </h1>
-
+Driven by a passion for continuous improvement, I am an aspiring cybersecurity professional with a technical foundation in SQL and Python.
+I believe my willingness to learn, combined with my values of credibility and teamwork, will allow me to become a key contributor in defending an organization against emerging threats. 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
