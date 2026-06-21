@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Shahaf </h1>
 
 <p align="center">
-  <b>Computer Science Student @ Ben-Gurion University (BGU), Israel</b><br>
+  <b>Computer Science Student @ Ben-Gurion University, Israel</b><br>
   <i>Seeking Software Engineering, Embedded Development or Software Security roles</i>
 </p>
 
